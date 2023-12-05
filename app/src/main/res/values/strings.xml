@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">FraionHyudzEsguerra-Block1-Quiz</string>
     <string name="log_in">Log in:</string>
-    <string name="username">username</string>
-    <string name="password">password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
     <string name="login">Log In</string>
     <string name="sign_up">Sign up</string>
-    <string name="create_an_account">Create an account</string>
+    <string name="create_an_account">Sign Up</string>
     <string name="new_acc">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">Welcome to bookFace</string>
+    <string name="get_started">Get Started!</string>
+    <string name="back">Back</string>
 </resources>
