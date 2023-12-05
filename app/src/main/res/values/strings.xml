@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FraionHyudzEsguerra-Block1-Quiz</string>
+    <string name="log_in">Log in:</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Log In</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="new_acc">Sign Up</string>
 </resources>
