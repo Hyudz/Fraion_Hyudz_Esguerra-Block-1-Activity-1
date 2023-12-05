@@ -21,7 +21,7 @@ class Signup : Fragment() {
     ): View {
         binding = FragmentSignupBinding.inflate(inflater,container,false)
         binding.signupBtn.setOnClickListener {
-
+            findNavController().navigate(SignupDirections.actionSignup3ToLoginFragment())
         }
         return binding.root
 
